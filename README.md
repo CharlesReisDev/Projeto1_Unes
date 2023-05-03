@@ -1,4 +1,4 @@
 # Projeto1_Unes_Web
-Esse foi um projeto que desafiou conhecimento sobre html
+<p>Esse e um projeto que desafio o conhecimento basico de CSS3</p>
 
 resultado: https://charlesreisdev.github.io/Projeto1_Unes_Web/
